@@ -1,6 +1,5 @@
-## 💫 About Me:
-### Hi there, I'm David 👋<br><br>I'm a developer with a passion for building robust, scalable, and maintainable applications. I enjoy the process of architecting systems from the ground up and believe that a solid foundation is the key to creating great software.
-
+## Hi there, I'm David 👋
+##### I'm a developer with a passion for building robust, scalable, and maintainable applications. I enjoy the process of architecting systems from the ground up and believe that a solid foundation is the key to creating great software.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frdavid_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frdavid2002@gmail.com) 
